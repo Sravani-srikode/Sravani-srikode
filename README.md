@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Codes, Data, Statistics, Artificial Intelligence, Large Learning Models
 - 🌱 My current Knowledge ... Data Science, Machine Learning, Deep Learning, NLP, LLM, PowerBI
 - 💞️ I’m looking to collaborate on ... Data Scientists, Machine Learning Engineers, AI Researchers, Software Developers, Open Source Communities, Cross-Disciplinary Experts
-- 📫 How to reach me ... sravani.kotyada@outlook.com
+- 📫 How to reach me ... sravanik1109@gmail.com
 - Skills ...
   * Programming languages : Python
   * Data Analysis and Manipulation : NumPy, Pandas
