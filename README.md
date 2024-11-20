@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sravani Kotyada
 - 👀 I’m interested in ... DevOps, Cloud Infrastructure, Automation, Continuous Integration & Continuous Delivery (CI/CD), Containerization, Microservices, Monitoring & Logging
-- 🌱 My current Knowledge ... Terraform, Kubernetes, Docker, Jenkins, AWS, Ansible, Shell Script, Prometheus, Grafana, Helm, SonarQube, Jira, Git
+- 🌱 My current Knowledge ... Terraform, Kubernetes, Docker, Jenkins, AWS, Ansible, Shell Script, Prometheus, Grafana, Helm, SonarQube, Jira, GitHub
 - 💞️ I’m looking to collaborate on ... DevOps Engineers, Cloud Architects, Software Developers, System Administrators, Open Source Communities, and Cross-Disciplinary Experts
 - 📫 How to reach me ... sravanik1109@gmail.com
 - 💼 Skills ...
